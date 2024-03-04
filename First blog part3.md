@@ -143,10 +143,10 @@ On the other hand, default sentiment classifier may not fit enough in the contex
 The prediction system will perform better if we can insert our own training set that maps the Federal Reserve’s statements on interest rate policies to several custom labels.
 
 ##### Traditional Sentimental Words Classification
-![Traditional Sentimental Words Classification](image.png)
+![Traditional Sentimental Words Classification](https://github.com/MizukiKoiti/First-Blog/blob/main/image.png)
 
 ##### A Word Cloud relating to Interest Rate Policy
-![Word Cloud relating to Interest Rate Policy](image-1.png)
+![Word Cloud relating to Interest Rate Policy](https://github.com/MizukiKoiti/First-Blog/blob/main/image-1.png)
 
 
 
